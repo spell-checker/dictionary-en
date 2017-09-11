@@ -1,0 +1,14 @@
+{
+	"name": "spell-checker/dictionary-en",
+	"type": "library",
+	"description": "English dictionary for spell-checker and PhpStorm/InteliJ",
+	"homepage": "https://github.com/spell-checker/dictionary-en",
+	"license": ["public-domain"],
+	"authors": [
+		{
+			"name": "Vlasta Neubauer",
+			"homepage": "http://www.paranoiq.cz"
+		}
+	],
+	"require": {}
+}
